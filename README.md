@@ -39,12 +39,14 @@ The simulator supports the following disk scheduling algorithms:
 
 The program reads input from standard input:
 
+'''
 ALG N H [D]
 R
 t1 n1
 t2 n2
 ...
 tR nR
+'''
 
 - `ALG` → Algorithm name (FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK)
 - `N` → Number of tracks
