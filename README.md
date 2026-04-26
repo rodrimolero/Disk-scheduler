@@ -69,10 +69,11 @@ The program prints:
 
 Example:
 
+```
 55 40 60
 40
 45
-
+```
 
 ---
 
